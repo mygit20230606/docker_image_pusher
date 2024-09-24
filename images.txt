@@ -1,3 +1,4 @@
 b3log/siyuan:latest
 v2ray/official:latest
+mzz2017/v2raya:latest
 
