@@ -1,1 +1,3 @@
 b3log/siyuan:latest
+v2ray/official:latest
+
