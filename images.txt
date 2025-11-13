@@ -1,1 +1,1 @@
-node:latest
+node:lts-alpine3.21
