@@ -1,1 +1,2 @@
-node:lts-slim
+node:22.21-slim
+
